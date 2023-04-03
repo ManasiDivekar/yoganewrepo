@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-style:'Poppins', sans-serif;
+}
+
+section{
+    height: 100vh;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+}
+
+.home-sec{ 
+    background-image: url("/media/bg_1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.textalter{
+    margin-top: 50px;
+   }
+.first-head{
+    font-style: "Reenie Beanie", cursive;
+
+}
+ .paracolor{
+    color: rgb(122, 118, 118);
+}
+
+/* section  1 */
+
+.section-content{
+    background-color: rgba(244, 243, 243, 0.712);
+    padding: 100px;
+}
+
+.text-color{
+    font-size: 1rem;
+    color: rgba(151, 148, 148, 0.68);
+
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(223, 217, 217, 0.66);
+    border-radius: 50%;
+
+}
+/* section   3 */
+.section3{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
