@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     font-style:'Poppins', sans-serif;
 }
 
@@ -33,7 +33,7 @@ section{
 
 .section-content{
     background-color: rgba(244, 243, 243, 0.712);
-    padding: 100px;
+    padding: 70px;
 }
 
 .text-color{
@@ -48,8 +48,72 @@ section{
     border-radius: 50%;
 
 }
-/* section   3 */
-.section3{
-    padding-top: 70px;
-    padding-bottom: 50px;
+
+.circle:hover{
+    background-color: rgba(154, 244, 154, 0.726);
+}
+/* section   2 */
+.section2{
+    padding: 100px;
+}
+.section-2-sub{
+    padding: 70px;
+}
+.video-ref{
+    height: 100px;
+    width: 180px;
+    background-image: url("image/abouttwo.jpg");
+    background-position: 100%;
+    background-size: 100%;
+}
+
+/* section    3 */
+
+.section-3{
+    background-image: url("image/bgthree.jpg");
+     background-size: cover;
+     background-position: 100%;
+     background-repeat: no-repeat;
+     
+}
+/* .overlay { 
+    /* position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    opacity: .9; 
+    background-color: transparent; 
+    background-color: rgba(255, 255, 255, 0.655);
+
+} */
+
+.circle2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgba(234, 231, 231, 0.747);
+}
+.circle2:hover{
+    background-color: rgba(173, 244, 173, 0.781);
+}
+
+/* section  4 */
+.section-4{
+
+    background-image: url(image/about.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.covertop{
+    background-color: rgba(28, 171, 28, 0.696);
+}
+.circle3{
+    height: 80px;
+    width: 80px;
+    background-color:white;
+    border-radius: 50%;
 }
