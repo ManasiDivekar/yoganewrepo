@@ -22,6 +22,9 @@ section{
     background-size: cover;
 }
 
+section .container-fluid .row nav #mynavbar ul li a{
+    font-size: larger;
+}
 .textalter{
     margin-top: 50px;
    }
@@ -174,4 +177,22 @@ section{
 .footer{
     padding: 60px;
     background-color: #141b25;
+}
+
+
+/* contact  page */
+
+.circle5{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: rgba(20, 175, 20, 0.916);
+}
+
+.contactmap{
+    height: 400px;
+    /* background-image: url(image/contactmap.JPG);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat; */
 }
